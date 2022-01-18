@@ -16,9 +16,11 @@
   height: 35rem;
 }
 
-body {
+.container-fluid {
   background-image: url(../assets/images/bg/sign-in.jpg);
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-position: center;
 }
 
 a {
